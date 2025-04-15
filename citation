@@ -1,2 +1,10 @@
 CITATION.cff
   
+@misc{Boometal_impact_data,
+  aauthor={Boom, Bart and Truscott, Tadd and Fish, Frank and  Habtour, Ed},
+  month = {3},
+  title = {{Dataset: Tuning body shape and stiffness to reduce water slamming forces}},
+  url = {https://github.com/Illimited-Lab/TwoBodyConeImpactData},
+  version = {1.0.0},
+  year = {2025}
+}
